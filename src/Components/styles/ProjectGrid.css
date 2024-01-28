@@ -1,0 +1,25 @@
+.project-grid {
+    padding: 20px;
+  }
+  
+  .project-grid h2 {
+    color: #333;
+  }
+  
+  .project-thumbnail {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .project-thumbnail img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .project-thumbnail h3 {
+    margin: 10px 0;
+    color: #333;
+  }
+  
